@@ -61,7 +61,7 @@ If you know how to code in Rust, but don't know operating system development:
 - Look for issues labeled "good first issue", "easy", and/or "help wanted", e.g. [this GitLab filter](https://gitlab.redox-os.org/groups/redox-os/-/issues/?sort=updated_desc&state=opened&or%5Blabel_name%5D%5B%5D=good%20first%20issue&or%5Blabel_name%5D%5B%5D=Easy&or%5Blabel_name%5D%5B%5D=easy&or%5Blabel_name%5D%5B%5D=help%20wanted&first_page_size=20]). Worth noting the skill level varies between projects, but a large subset of these should be approachable by contributors familiar with regular Rust/Unix application programming.
 - Improve the package manager, or other meta-tools like `redoxer` or `installer`
 - Improve the [Ion](https://gitlab.redox-os.org/redox-os/ion) shell, or other high-level or mid-level projects
-- Port Rust programs to Redox, possibly including dependencies, and C library extensions if necessary
+- Port Rust programs to Redox, possibly including dependencies, and C library extensions if necessary (also look for issues with the `port` label)
 - Improve program compatibility in relibc by e.g. implementing missing APIs
 
 If you know how to code in Rust, and have experience with systems software/OS development:
