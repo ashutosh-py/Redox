@@ -73,7 +73,7 @@ If you know how to code in Rust, and have experience with systems software/OS de
 - Improve internal libraries and abstractions, e.g. `libredox`, `redox-scheme`, `redox-event` etc.
 - Help upstream Redox-specific functionality to the Rust ecosystem
 - Improve Redox's automated testing suite and continuous integration testing processes
-- Improve, profile, and optimize code, especially in the kernel, filesystem, and netstack
+- Improve, profile, and optimize code, especially in the kernel, filesystem, and network stack
 - Improve or write device drivers
 
 For those who want to contribute to the Redox GUI, our GUI strategy has recently changed.
