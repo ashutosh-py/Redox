@@ -71,7 +71,7 @@ If you know how to code in Rust, and have experience with systems software/OS de
 - Search for `TODO`, `FIXME`, `BUG`, `UNOPTIMIZED`, `REWRITEME`, `DOCME`, and `PRETTYFYME` and fix the code you find
 - Look in general for issues with the following labels: `critical`, `help wanted`, `feature`, `enhancement`, `bug` or `port`
 - Improve internal libraries and abstractions, e.g. `libredox`, `redox-scheme`, `redox-event` etc.
-- Help upstream Redox specific functionality to the Rust ecosystem
+- Help upstream Redox-specific functionality to the Rust ecosystem
 - Improve Redox's automated testing suite and continuous integration testing processes
 - Improve, profile, and optimize code, especially in the kernel, filesystem, and netstack
 - Improve or write device drivers
