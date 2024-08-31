@@ -88,7 +88,7 @@ We use an index to track the development priorities, you can find them on [this]
 
 ## RFCs
 
-For more significant changes that affect Redox's architecture, we use a [Request for Comments](https://gitlab.redox-os.org/redox-os/rfcs) repository.
+For more significant changes that affect Redox's architecture, we use the [Request for Comments](https://gitlab.redox-os.org/redox-os/rfcs) repository.
 
 ## Build System
 
