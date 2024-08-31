@@ -66,7 +66,7 @@ If you know how to code in Rust, but don't know operating system development:
 
 If you know how to code in Rust, and have experience with systems software/OS development:
 
-- Familiarize yourself with the repository, layout, code, and build system
+- Familiarize yourself with the repository layout, code, and build system
 - Update old code to remove warnings
 - Search for `TODO`, `FIXME`, `BUG`, `UNOPTIMIZED`, `REWRITEME`, `DOCME`, and `PRETTYFYME` and fix the code you find
 - Look in general for issues labeled "enhancement", "bug"
