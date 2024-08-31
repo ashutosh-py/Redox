@@ -54,6 +54,7 @@ If you don't know how to code in Rust, but know other programming languages:
 
 - Web development on the website (we don't accept JavaScript code)
 - Write unit tests (may require minimal knowledge of Rust)
+- Port C/C++ programs to Redox (read the `TODO`s of the recipes on [this](https://gitlab.redox-os.org/redox-os/cookbook/-/tree/master/recipes/wip?ref_type=heads) category)
 - Port programs to Redox
 
 If you know how to code in Rust, but don't know operating system development:
