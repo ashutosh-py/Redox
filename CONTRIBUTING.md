@@ -69,7 +69,7 @@ If you know how to code in Rust, and have experience with systems software/OS de
 - Familiarize yourself with the repository layout, code, and build system
 - Update old code to remove warnings
 - Search for `TODO`, `FIXME`, `BUG`, `UNOPTIMIZED`, `REWRITEME`, `DOCME`, and `PRETTYFYME` and fix the code you find
-- Look in general for issues labeled "enhancement", "bug"
+- Look in general for issues with the following labels: `critical`, `help wanted`, `feature`, `enhancement`, `bug` or `port`
 - Improve internal libraries and abstractions, e.g. `libredox`, `redox-scheme`, `redox-event` etc.
 - Help upstream Redox specific functionality to the Rust ecosystem
 - Improve Redox's automated testing suite and continuous integration testing processes
